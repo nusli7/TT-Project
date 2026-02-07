@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+1 bit Full Adder using NAND, XOR and OR gates. 
 
 ## How to test
 
-Explain how to use your project
+Input 1 bit binary numbers to the input and watch the outputs.
 
 ## External hardware
 
